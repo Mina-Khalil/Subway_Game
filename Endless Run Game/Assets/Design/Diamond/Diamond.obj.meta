@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 9f10ddf1144f5a748817d09e1d81afa7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cloner_Plane_0
+    100002: Cloner_Plane_1
+    100004: Cloner_Plane_10
+    100006: Cloner_Plane_11
+    100008: Cloner_Plane_12
+    100010: Cloner_Plane_13
+    100012: Cloner_Plane_14
+    100014: Cloner_Plane_15
+    100016: Cloner_Plane_2
+    100018: Cloner_Plane_3
+    100020: Cloner_Plane_4
+    100022: Cloner_Plane_5
+    100024: Cloner_Plane_6
+    100026: Cloner_Plane_7
+    100028: Cloner_Plane_8
+    100030: Cloner_Plane_9
+    100032: //RootNode
+    100034: Diamond_Disc
+    400000: Cloner_Plane_0
+    400002: Cloner_Plane_1
+    400004: Cloner_Plane_10
+    400006: Cloner_Plane_11
+    400008: Cloner_Plane_12
+    400010: Cloner_Plane_13
+    400012: Cloner_Plane_14
+    400014: Cloner_Plane_15
+    400016: Cloner_Plane_2
+    400018: Cloner_Plane_3
+    400020: Cloner_Plane_4
+    400022: Cloner_Plane_5
+    400024: Cloner_Plane_6
+    400026: Cloner_Plane_7
+    400028: Cloner_Plane_8
+    400030: Cloner_Plane_9
+    400032: //RootNode
+    400034: Diamond_Disc
+    2100000: Cloner_Plane_0Mat
+    2100002: Cloner_Plane_1Mat
+    2100004: Cloner_Plane_10Mat
+    2100006: Cloner_Plane_11Mat
+    2100008: Cloner_Plane_12Mat
+    2100010: Cloner_Plane_13Mat
+    2100012: Cloner_Plane_14Mat
+    2100014: Cloner_Plane_15Mat
+    2100016: Cloner_Plane_2Mat
+    2100018: Cloner_Plane_3Mat
+    2100020: Cloner_Plane_4Mat
+    2100022: Cloner_Plane_5Mat
+    2100024: Cloner_Plane_6Mat
+    2100026: Cloner_Plane_7Mat
+    2100028: Cloner_Plane_8Mat
+    2100030: Cloner_Plane_9Mat
+    2100032: Diamond_DiscMat
+    2300000: Cloner_Plane_0
+    2300002: Cloner_Plane_1
+    2300004: Cloner_Plane_10
+    2300006: Cloner_Plane_11
+    2300008: Cloner_Plane_12
+    2300010: Cloner_Plane_13
+    2300012: Cloner_Plane_14
+    2300014: Cloner_Plane_15
+    2300016: Cloner_Plane_2
+    2300018: Cloner_Plane_3
+    2300020: Cloner_Plane_4
+    2300022: Cloner_Plane_5
+    2300024: Cloner_Plane_6
+    2300026: Cloner_Plane_7
+    2300028: Cloner_Plane_8
+    2300030: Cloner_Plane_9
+    2300032: Diamond_Disc
+    3300000: Cloner_Plane_0
+    3300002: Cloner_Plane_1
+    3300004: Cloner_Plane_10
+    3300006: Cloner_Plane_11
+    3300008: Cloner_Plane_12
+    3300010: Cloner_Plane_13
+    3300012: Cloner_Plane_14
+    3300014: Cloner_Plane_15
+    3300016: Cloner_Plane_2
+    3300018: Cloner_Plane_3
+    3300020: Cloner_Plane_4
+    3300022: Cloner_Plane_5
+    3300024: Cloner_Plane_6
+    3300026: Cloner_Plane_7
+    3300028: Cloner_Plane_8
+    3300030: Cloner_Plane_9
+    3300032: Diamond_Disc
+    4300000: Cloner_Plane_0
+    4300002: Cloner_Plane_1
+    4300004: Cloner_Plane_10
+    4300006: Cloner_Plane_11
+    4300008: Cloner_Plane_12
+    4300010: Cloner_Plane_13
+    4300012: Cloner_Plane_14
+    4300014: Cloner_Plane_15
+    4300016: Cloner_Plane_2
+    4300018: Cloner_Plane_3
+    4300020: Cloner_Plane_4
+    4300022: Cloner_Plane_5
+    4300024: Cloner_Plane_6
+    4300026: Cloner_Plane_7
+    4300028: Cloner_Plane_8
+    4300030: Cloner_Plane_9
+    4300032: Diamond_Disc
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
